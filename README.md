@@ -1,0 +1,2 @@
+# python
+Türkçe Python uygulamaları
