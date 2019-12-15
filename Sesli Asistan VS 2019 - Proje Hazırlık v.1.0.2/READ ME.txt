@@ -1,0 +1,20 @@
+Programa Hoþgeldiniz
+Bu programla yapabildikleriniz:
+1-)"XXXXX nedir" diyerek Google üzerinden arama yapabilirsiniz. 
+Örnek:"Araba nedir"
+
+2-)"XXXX dolar kaç tl" gibi cümlelerle istediðiniz para dönüþümlerini Google üzerinden yapabilirsiniz.
+Örnek:"3 dolar kaç tl"
+
+3-)"Yemek sepetine gir" diyerek profil bilgilerinizi girdiðiniz yemeksepeti hesabýna giriþ yapabilirsiniz.
+
+4-)"YouTube'dan XXXXX aç" diyerek istediðiniz videoyu açabilirsiniz
+Örnek:"YouTube'dan Gülpembe aç"
+
+
+
+Profil Bilgilerini Girilmesi:
+
+Profil bilgilerinizi ayný klasördeki "veriler.txt" dosyasýnýn içine "yemeksepeti:kullanici_adi,sifre" olarak yazýnýz.
+Örnek:facebook:example@gmail.com,examplepassword
+

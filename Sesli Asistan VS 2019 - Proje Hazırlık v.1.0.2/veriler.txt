@@ -1,0 +1,3 @@
+yemeksepeti:xxxxxxx,xxxxxx
+facebook:xxxxxxxx,xxxxxx
+twitter:xxxxxxxxx,xxxxx
